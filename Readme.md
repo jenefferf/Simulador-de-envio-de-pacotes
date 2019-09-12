@@ -114,13 +114,11 @@
   * **Diagrama de caso de uso UML**
 
 
-  ![Diagrama casos de uso](https://github.com/POO29004-classroom/projeto-pratico-03-2019-01-jenefferf/blob/master/relatorio/casosDeUso.png)
+  ![Diagrama casos de uso](https://github.com/jenefferf/Simulador-de-envio-de-pacotes/blob/master/relatorio/casosDeUso.png)
 
 ## Diagrama de classes UML
- ![Diagrama de classes](https://github.com/POO29004-classroom/projeto-pratico-03-2019-01-jenefferf/blob/master/relatorio/SimuladorDeEventos.png)
+ ![Diagrama de classes](https://github.com/jenefferf/Simulador-de-envio-de-pacotes/blob/master/relatorio/SimuladorDeEventos.png)
 
-## Diagrama de sequência UML
- ![Diagrama de classes](https://github.com/POO29004-classroom/projeto-pratico-03-2019-01-jenefferf/blob/master/relatorio/DiagramaDeSequencia.png)
 
 ​    
 
