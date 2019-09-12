@@ -1,0 +1,4 @@
+d1:d10:olá mundo
+d6:d2:férias chegando
+d3:d5:fim
+d7:d23:oi
